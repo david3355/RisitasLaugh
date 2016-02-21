@@ -1,0 +1,13 @@
+<appwidget-provider xmlns:android="http://schemas.android.com/apk/res/android"
+    android:minWidth="60dp"
+    android:minHeight="30dp"
+    android:initialLayout="@drawable/risitas_laugh"
+    android:resizeMode="horizontal|vertical"
+    android:updatePeriodMillis="0"
+    android:widgetCategory="home_screen|keyguard"
+    android:previewImage="@drawable/risitas_laugh" >
+    <!--android:configure="laugh.jager.risitaslaugh.RisitasLaughConfigure" -->
+
+
+
+</appwidget-provider>
