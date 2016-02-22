@@ -27,6 +27,7 @@ public class PlayerService extends Service implements MediaStoppedHandler
               public void onReceive(Context context, Intent intent)
               {
                      stopAllMedia();
+                     stopSelf();
               }
        };
 
