@@ -5,7 +5,7 @@
     android:resizeMode="horizontal|vertical"
     android:updatePeriodMillis="0"
     android:widgetCategory="home_screen|keyguard"
-    android:previewImage="@drawable/risitas_laugh" >
+    android:previewImage="@drawable/risitas_icon" >
     <!--android:configure="laugh.jager.risitaslaugh.RisitasLaughConfigure" -->
 
 
